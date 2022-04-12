@@ -1,0 +1,23 @@
+{
+  "id": "3322845",
+  "name": "1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7592572",
+      "name": "24gf-headset",
+      "font_class": "24gf-headset",
+      "unicode": "ea0e",
+      "unicode_decimal": 59918
+    },
+    {
+      "icon_id": "26237601",
+      "name": "邮件、查看邮件、发送邮件、收邮件-01",
+      "font_class": "a-youjianchakanyoujianfasongyoujianshouyoujian-01",
+      "unicode": "e917",
+      "unicode_decimal": 59671
+    }
+  ]
+}
